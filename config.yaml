@@ -94,7 +94,7 @@ params:
       url: "https://stackoverflow.com/users/12011679/cassie"
 
   editPost:
-    URL: "https://github.com/cassiepearson/cassiepearson.github.io/content"
+    URL: "https://github.com/cassiepearson/cassiepearson.github.io/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
