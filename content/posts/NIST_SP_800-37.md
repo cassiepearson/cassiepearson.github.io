@@ -14,7 +14,7 @@ TocOpen: true
 
 ---
 
-The National Institute of Standards and Technology maintains several important publications about risk management and security as part of its mission to promote innovation and industrial competitiveness [1]. There are several important publications from NIST, but this post will summarize special publication (SP) 800-37 'Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy'. The target audience for this document is any individual or organization associated with the design, development, implementation, assessment, operation, maintenance, and disposition of information systems [2].  As stated, this document provides a  Risk Management Framework (RMF) for any information systems. This is primarily focused on digital information systems and integration into modern cybersecurity, but not exclusively. 
+The National Institute of Standards and Technology maintains several important publications about risk management and security as part of its mission to promote innovation and industrial competitiveness [1]. One of the most notable is special publication (SP) 800-37 'Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy'. The target audience for this document is any individual or organization associated with the design, development, implementation, assessment, operation, maintenance, and disposition of information systems [2].  As stated, this document provides a  Risk Management Framework (RMF) for any information systems. This is primarily focused on digital information systems and integration into modern cybersecurity, but not exclusively. 
 
 Sources are cited below, original article available free from NIST [here](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf).
 
@@ -76,7 +76,7 @@ NIST provides more details in the special publication including the minimum set 
 
 ---
 
-This NIST publication is very detailed and provides more than just the fundamentals for organizational risk management. More topics including supply chain risk management, security and privacy, authorization boundaries, and requirements and controls are covered. This summary is meant to provide a conceptual framework for the key ideas behind risk management as outlined by NIST. In any security environment, an understanding of the conceptual framework for determining and addressing risk is critical. NIST RMF is by no means a one size fits all solution to risk management, but it provides a useful framework and highlights crucial ideas in the field. This NIST special publication can provide great benefit to any organization's information infrastructure and data security. 
+This publication provides more than just the fundamentals for organizational risk management. Topics including supply chain risk management, security and privacy, authorization boundaries, and requirements and controls are covered. I have only provided a conceptual framework for the key ideas behind risk management as outlined by NIST. In any security environment, an understanding of the conceptual framework for determining and addressing risk is critical. NIST RMF is by no means a one size fits all solution to risk management, but it provides a framework and highlights crucial ideas in the field. This publication can provide great benefit to any organization's information infrastructure and data security. 
 
 ## **Sources**
 
