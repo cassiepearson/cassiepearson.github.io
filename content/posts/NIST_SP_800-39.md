@@ -1,6 +1,6 @@
 ---
 author: ["Cassandra Pearson"]
-title: "NIST SP800-37 Risk Management Framework"
+title: "NIST SP800-39 Managing Information Security Risk"
 date: "2024-10-10"
 description: "NIST SP 800-39 Managing Information Security Risk: Organization, Mission, and Information System View"
 summary: "NIST SP 800-39 Managing Information Security Risk summary"
