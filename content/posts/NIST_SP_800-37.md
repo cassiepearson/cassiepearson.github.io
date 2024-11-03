@@ -22,7 +22,7 @@ Sources are cited below, original article available free from NIST [here](https:
 
 ---
 
-To quote directly from the publication [2]: 
+Quoting the publication [2]: 
 
 " 
 The guidelines have been developed:
