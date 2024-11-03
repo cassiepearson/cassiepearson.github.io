@@ -46,7 +46,7 @@ This publication takes a three tiered approach to managing risk as demonstrated 
 
 Summarizing figure 1:
 - Organization
-	- This level focuses on governance and program-related risk management [1]. Encompassing activities for preparing the organization to execute the RMF [2]. Here, important decisions linked to the business objectives, system modernization, enterprise architecture, and resource allocation are made. The primary responsibilities are: to understand risk, to assign roles, to identify critical functions, and to prioritize security requirements. 
+	- This tier focuses on governance and program-related risk management [1]. Preparing the organization to execute the RMF [3].  Here, important decisions linked to the business objectives, system modernization, enterprise architecture, and resource allocation are made. The primary responsibilities are: to understand risk, to assign roles, to identify critical functions, and to prioritize security requirements. 
 - Mission/Business Process
 	- This level focuses on the business or mission objectives. Such as defining the criticality of information flow between the organization and its partners [1]. Although related to level one, the focus is information flow, communication, and assigning task criticality. 
 - Information System
