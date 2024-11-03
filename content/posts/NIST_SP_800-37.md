@@ -44,7 +44,7 @@ This publication takes a three tiered approach to managing risk as demonstrated 
 
 ![NISTSP80037](/images/NIST80037_Fig1.png "NIST SP800-37 Figure 1")
 
-To summarize figure 1:
+Summarizing figure 1:
 - Organization
 	- This level focuses on governance and program-related risk management [1]. Encompassing activities for preparing the organization to execute the RMF [2]. Here, important decisions linked to the business objectives, system modernization, enterprise architecture, and resource allocation are made. The primary responsibilities are: to understand risk, to assign roles, to identify critical functions, and to prioritize security requirements. 
 - Mission/Business Process
