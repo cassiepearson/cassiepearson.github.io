@@ -46,13 +46,13 @@ This publication takes a three tiered approach to managing risk as demonstrated 
 
 To summarize figure 1:
 - Organization
-	- This level has a primary focus on governance and program-related risk management [1]. This level encompasses activities critical to preparing the organization to execute the RMF [2]. This is the level at which important decisions linked to the business objectives, system modernization, enterprise architecture, and resource allocation are made. The primary responsibilities at this level are to understand risk, assign roles, identify critical functions, and prioritize security requirements. 
+	- This level focuses on governance and program-related risk management [1]. Encompassing activities for preparing the organization to execute the RMF [2]. Here, important decisions linked to the business objectives, system modernization, enterprise architecture, and resource allocation are made. The primary responsibilities are: to understand risk, to assign roles, to identify critical functions, and to prioritize security requirements. 
 - Mission/Business Process
-	- This level focuses on the business or mission objectives. For example, defining the criticality of information flows between the organization and its partners [1]. This tier is closely related to the level one, but focuses more on information flow, communication, and assigning task criticality. 
+	- This level focuses on the business or mission objectives. Such as defining the criticality of information flow between the organization and its partners [1]. Although related to level one, the focus is information flow, communication, and assigning task criticality. 
 - Information System
-	- This is the risk at the information technology level. This is where risk to physical and digital information becomes less organizational and more practical.
+	- This level defines the risk to information technology. Where risk to physical and digital information becomes less organizational and more practical.
 
-Communication of risks and priorities will flow down the diagram and incident reporting will flow up. Feedback is provided from the information system level up to the organization level. Ensuring every keyholder is up to date on the critical threats. New directives and priorities will flow down back to the information system level. Once careful consideration of the reports and threat intelligence collected adn analyzed. 
+Communication of risks and priorities flow down the diagram. Incident reporting flows up. Feedback is provided from the information system level to the organization level. Ensuring every keyholder is up to date on the critical threats. New directives and priorities will flow down. Returning to the information system level. Once careful consideration of the reports and threat intelligence collected adn analyzed. 
 
 Once a conceptualization of the framework is understood, stakeholders should execute the process. The NIST RMF isolates seven key steps to ensure that activities are successfully executed [2]:
 1. Prepare
