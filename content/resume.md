@@ -24,10 +24,12 @@ I have a B.S. in Mathematics from Arizona State University, where I also led a v
 
 **Security System Specialist II** \
 **Douglas County School District** \
-**Aug 2024 - Present (2 months)**
-- Deploy and manage physical security systems including cameras, door strikes, and alarm panels to ensure student safety.
-- Utilizing Genetec to manage physical devices deployed across the county on over 100 sites.
-- Traveling to different sites daily to address security concerns.
+**Aug 2024 - Present**
+- Prepare technical documentation for new hybrid cyber and hardware security solutions
+- Train security staff on technologies, equipment, and standard operating procedures
+- Maintain security devices at over 100 unique sites spread throughout Douglas county
+- Collaborate with both security and administrative staff to develop new standards and protocols
+- Successfully deployed new security technologies at over 75 sites ensuring student safety
 
 **Design Automation Software Engineer** \
 **Deca Technologies** \
@@ -88,7 +90,7 @@ I have a B.S. in Mathematics from Arizona State University, where I also led a v
 ---
 
 CompTIA Security+ ce Certification - CompTIA \
-Issued Jul 2021 - Expires Jul 2024
+Issued Jul 2021 - Expired Jul 2024
 
 ## **Skills**
 
