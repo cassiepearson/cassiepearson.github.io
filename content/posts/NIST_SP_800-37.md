@@ -30,8 +30,7 @@ The guidelines have been developed:
 - To achieve privacy protections for individuals and security protections for information and information systems through the implementation of appropriate risk response strategies;
 - To support consistent, informed, and ongoing authorization decisions, reciprocity, and the transparency and traceability of security and privacy information;
 - To facilitate the integration of security and privacy requirements and controls into the enterprise architecture, SDLC processes, acquisition processes, and systems engineering processes;
-- To facilitate the implementation of the Framework for Improving Critical Infrastructure Cybersecurity [NIST CSF] within federal agencies.  
-
+- To facilitate the implementation of the Framework for Improving Critical Infrastructure Cybersecurity [NIST CSF] within federal agencies.
 "
 
 This publication provides means for handling organizational risks to information systems. Establishing rules for data privacy, data owners, data transparency, and secure software development. The focus is on a framework for addressing, understanding, mitigating, and accepting risk. It provides no specific countermeasures for risks instead focusing at the organization level.
