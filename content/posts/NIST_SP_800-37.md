@@ -16,7 +16,7 @@ TocOpen: true
 
 The National Institute of Standards and Technology (NIST) maintains important publications about risk management and security. This is part of its mission to promote innovation and industrial competitiveness [1]. One of the most notable is special publication (SP) 800-37 'Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy'. The target audience is any individual or organization associated with the design, development, implementation, assessment, operation, maintenance, and disposition of information systems [2]. This document provides a Risk Management Framework (RMF) for any information systems. Although designed for cyber risks, the framework applies as well to physical risks. 
 
-Sources are cited below, original article available free from NIST [here](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf).
+Sources are cited below, original article available free of charge [here](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf).
 
 ## **Purpose of Publication**
 
