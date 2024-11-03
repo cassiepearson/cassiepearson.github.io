@@ -14,21 +14,19 @@ TocOpen: true
 
 ---
 
-Introduction
-
 NIST SP800-53 provides further details about the controls discussed in SP800-37 and SP800-39 security architecture. I recommend familiarizing yourself with them before continuing. SP800-53 differs from the previous two publications described by focusing entirely on the security controls instead of on the risk management framework or organizational structure. This document acts as a reference for implementation of the controls described. It provides detailed information about when to apply the control as well as a discussion of the control, related controls, and sources for further information. When implementing any controls described within the document, it should be consulted to ensure no portion of the control is overlooked or that necessary compensating or accompanying controls are not missed. This post will serve as a guide for how to utilize this document as a reference; providing the context and background for understanding the controls and their descriptions.
 
-Sources are cited below, original article available free from NIST [here](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf).
+Sources are cited below, original article available free of charge [here](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf).
 
 ## **Purpose of Publication**
 
 ---
 
-To quote directly from the publication:
+Quoting the publication: 
 
 "This publication establishes controls for systems and organizations. The controls can be implemented within any organization or system that processes, stores, or transmits information.[1]
 
-This document provides details on security controls that are common in any organization with information systems.
+This document provides details on security controls common in any organization with information systems.
 
 ## **Control Structure and Example**
 
