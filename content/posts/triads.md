@@ -15,13 +15,23 @@ TocOpen: true
 
 ---
 
-The CIA and DAD are cybersecurity concepts describing the essential objectives and threats to a system. 
+The CIA and DAD describe the essential objectives and threats to a system. Although created for cyberspace, these concepts apply to physical security too. 
 
-The CIA triad describes the three major objectives in securing a system. These are confidentiality, integrity, and availability. Confidentiality is important when considering access to data. Unauthorized actors should not be given access to data even if it seems harmless to do so. Integrity refers to the structure of the system itself. If a component of the infrastructure is compromised, then the entire system could be damaged. This objective is about protecting against data, hardware, system, and intellectual property loss. Finally, availability concerns the uptime of a system. In any mission critical environment, it is essential that the system is accessible at all times. This is increasingly important for web applications deployed in the cloud. DDoS attacks can prevent users from accessing the application costing money or endangering mission critical operations. The CIA triad defines a scope for robust goals. 
+The CIA triad describes objectives in securing a system: Confidentiality, Integrity, and Availability. Each of the three effects the other two in equal measure. A system cannot be available if the infrastructure lacks integrity. Further, if accessible to no one, then it is not confidential as the information is unusable. Still, it is often useful to consider each of the concepts on its own.
 
-The DAD triad describes the three major threats against a system. These are disclosure, alteration, and denial. Each of these is the threat to the corresponding members of the CIA triad. That is to say, disclosure threatens confidentiality, alteration threatens integrity, and denial threatens availability. This direct mapping provides a convenient tool for considering issues with cybersecurity. For instance, the triads can be turned into questions helpful when considering if an objective was achieved: "Does the public server have the potential to disclose confidential information to unauthorized individuals?" Although not comprehensive of all potential issues to be considered in risk assessment, the DAD triad is useful when determining potential threat vectors.
+Confidentiality is important when considering access to data. Limiting access to the smallest group of user is essential. For each user provided access, the threat grows exponentially. 
 
-These triads are guidelines rather than rigid categories. Most objectives and threats will fall into all of the categories. However, they are still helpful in scoping and creating a goal. When considering that a DDoS attack could jeopardize availability and integrity, the impact of the threat may be considered elevated. This could cause a decision to be made that more money should be spent on a commercial solution or that additional safeguards need to be placed to ensure system integrity in the event of an attack.
+Integrity refers to the structure of the system itself. The infrastructure surrounding a system determines its safety and security. This encompasses both man-made and natural threats. Hardware compromised by a natural disaster is unavailable to use. This can be as damaging as a threat actor leaking internal data. 
+
+Finally, availability concerns the uptime of a system. In mission-critical environments, the system must be available 24/7. Every year, developers transition critical systems over to web applications. Cloud providers host most of these applications and provide critical security infrastructure. Their primary focus is on maintaining the availability to their user base. The CIA triad defines a scope for robust security goals. 
+
+The DAD triad inverses the CIA triad describing the threats against a system. These are disclosure, alteration, and denial. Each of these is the threat to the corresponding member of the CIA triad. Disclosure threatens confidentiality, alteration threatens integrity, and denial threatens availability. This direct mapping provides a convenient tool for threat modeling. 
+
+Combining members of the CIA and DAD triads yields helpful questions. For instance, "does the public server have access to disclose confidential information?" Using this method, potential threat vectors are obvious. A public server should not have access to any confidential data as that increases risk. Now, the next action item for the security team is clear-isolate the public interfaces. 
+
+These triads are guidelines rather than rigid categories. Most objectives and threats will fall into all the categories. Consider a DDoS attack, it jeopardizes availability and integrity immediately. With the integrity compromised, security measures may fail leading to unauthorized data access. Compromising all three members of the CIA triad. By considering each member on its own, the mitigation of the threat becomes more obvious. A solution like Cloudflare may further improve availability. Hardening encryption of the data on the protected server improves confidentiality. Adding a redundant server improves integrity. All three measures are clear goals and together reduce the threat. 
+
+The CIA and DAD triads form the backbone of modern security and threat modeling. 
 
 ## Sources
 
