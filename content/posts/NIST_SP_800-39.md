@@ -34,7 +34,7 @@ This document provides details on the NIST RMF from an organizational risk persp
 
 The three tier model introduced in NIST SP800-37 includes arrows showing the flow of communication among components. The terms changed slightly from NIST800-37. Tiers become levels, but the concept is the same[3]. To review this model, consider figure 2. 
 
-![NISTSP80039_Figure2](/images/NIST80039_Fig2.png "NIST SP800-39 Figure 2")
+![NISTSP80039_Figure2](/images/NIST80039_Fig2.bmp "NIST SP800-39 Figure 2")
 
 Summary of the tiers in figure 2:
 - Organization
